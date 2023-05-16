@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IdenticalBug! I am a Senior studying IT at Florida State University.
+- 👋 Hi, I’m @IdenticalBug! I am a Operations Engineer at General Motors!
 - 👀 I’m interested in anything technology related. I am a big fan of VR and video games and hope to work in the industry as a DevOps or Cloud engineer.
 - 🌱 I’m currently learning Python as my main programming language and am also studying to get certified in AWS!
 - 💞️ I’m looking to collaborate on anything! I really just want to learn as much as I can so I will collaborate on games, web development, etc.
